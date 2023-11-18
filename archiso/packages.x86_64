@@ -196,5 +196,4 @@ eza
 oh-my-zsh-git
 zsh-theme-powerlevel10k-git
 pokemon-colorscripts-git
-NetworkManager
-bluetooth
+networkmanager
